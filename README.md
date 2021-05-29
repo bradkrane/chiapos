@@ -15,6 +15,18 @@ learn about what proof of space is and how it works.
 
 ## C++ Usage Instructions
 
+###  WSL Pre-requests
+
+Assuming a fresh install of WSL2 Ubuntu 20.04
+
+```bash
+sudo apt-get update
+sudo apt-get upgrade -y
+
+sudo apt install cmake python-dev libpython3.8-dev
+
+```
+
 ### Compile
 
 ```bash
